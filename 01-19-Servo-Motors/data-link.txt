@@ -1,0 +1,4 @@
+HC-SFS52 & MR-J2S-60A/B data link
+	http://www.plc-servo-hmi.com/proddownfile/catalogmanual24503_ksp001.html
+Gripper
+	https://schunk.com/de/en/gripping-systems/parallel-gripper/c/PUB_8295
